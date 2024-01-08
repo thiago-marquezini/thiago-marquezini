@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiago Marquezini</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center">A passionate software analyst and developer from Brazil</h3>
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/thiago-marquezini/](https://www.linkedin.com/in/thiago-marquezini/)
 
