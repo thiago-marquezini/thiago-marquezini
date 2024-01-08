@@ -4,7 +4,7 @@
 - 📝 I regularly write articles on [https://www.linkedin.com/in/thiago-marquezini/](https://www.linkedin.com/in/thiago-marquezini/)
 
 - 📫 My Mail: **thiago.marquezini@icloud.com**
-- <img src="https://github.com/thiago-marquezini/thiago-marquezini/assets/42454145/ac0cb5cd-66f8-4250-b51b-942990477368" alt="aws" width="10" height="10"/> My LinkedIn: <a href="https://www.linkedin.com/in/thiago-marquezini">https://www.linkedin.com/in/thiago-marquezini/</a>
+- <img src="https://github.com/thiago-marquezini/thiago-marquezini/assets/42454145/ac0cb5cd-66f8-4250-b51b-942990477368" alt="linkedin" width="15" height="15"/> My LinkedIn: <a href="https://www.linkedin.com/in/thiago-marquezini">https://www.linkedin.com/in/thiago-marquezini/</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
