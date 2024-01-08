@@ -1,10 +1,10 @@
-F<h1 align="center">Hello 👋, I'm Thiago Marquezini</h1>
+<h1 align="center">Hello 👋, I'm Thiago Marquezini</h1>
 <h3 align="center">A passionate software analyst and developer from Brazil</h3>
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/thiago-marquezini/](https://www.linkedin.com/in/thiago-marquezini/)
 
-- 📫 You can reach me via email: **thiago.marquezini@icloud.com**
-- O![image](https://github.com/thiago-marquezini/thiago-marquezini/assets/42454145/45f43cdf-0b9b-4497-85e9-6ae2cdd41983) Or via LinkedIn: https://www.linkedin.com/in/thiago-marquezini/
+- 📫 My Mail: **thiago.marquezini@icloud.com**
+- <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg](https://github.com/thiago-marquezini/thiago-marquezini/assets/42454145/ac0cb5cd-66f8-4250-b51b-942990477368)" alt="aws" width="40" height="40"/> My LinkedIn: https://www.linkedin.com/in/thiago-marquezini/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
