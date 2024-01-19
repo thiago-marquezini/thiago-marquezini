@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Thiago Marquezini</h1>
 <h3 align="center">A passionate software analyst and developer from Brazil</h3>
 
-- 📫 My Mail: **thiago.marquezini@icloud.com**
+- 📫 **thiago.marquezini@icloud.com**
 
-- <img src="https://github.com/thiago-marquezini/thiago-marquezini/assets/42454145/ac0cb5cd-66f8-4250-b51b-942990477368" alt="linkedin" width="15" height="15"/> My LinkedIn: <a href="https://www.linkedin.com/in/thiago-marquezini">https://www.linkedin.com/in/thiago-marquezini/</a>
+- <img src="https://github.com/thiago-marquezini/thiago-marquezini/assets/42454145/ac0cb5cd-66f8-4250-b51b-942990477368" alt="linkedin" width="15" height="15"/><a href="https://www.linkedin.com/in/thiago-marquezini">https://www.linkedin.com/in/thiago-marquezini/</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
