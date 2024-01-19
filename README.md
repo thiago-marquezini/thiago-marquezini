@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Thiago Marquezini</h1>
+<h1 align="center">Hi 👋, I'm Thiago Marquezini</h1>
 <h3 align="center">A passionate software analyst and developer from Brazil</h3>
 
 - 📫 My Mail: **thiago.marquezini@icloud.com**
